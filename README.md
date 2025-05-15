@@ -1,1 +1,1 @@
-# portfolio
+A modern and responsive personal portfolio website built with HTML, CSS, and Bootstrap. This site showcases my skills, projects, and contact information in a clean and elegant layout. Designed to represent my personal brand and help me connect with potential employers, collaborators, and clients.
